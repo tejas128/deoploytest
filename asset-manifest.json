@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deoploytest/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/deoploytest/static/js/main.eee96f0b.chunk.js",
+    "main.js.map": "/deoploytest/static/js/main.eee96f0b.chunk.js.map",
+    "runtime-main.js": "/deoploytest/static/js/runtime-main.e6e33de5.js",
+    "runtime-main.js.map": "/deoploytest/static/js/runtime-main.e6e33de5.js.map",
+    "static/js/2.c81a1d06.chunk.js": "/deoploytest/static/js/2.c81a1d06.chunk.js",
+    "static/js/2.c81a1d06.chunk.js.map": "/deoploytest/static/js/2.c81a1d06.chunk.js.map",
+    "static/js/3.0d4f2954.chunk.js": "/deoploytest/static/js/3.0d4f2954.chunk.js",
+    "static/js/3.0d4f2954.chunk.js.map": "/deoploytest/static/js/3.0d4f2954.chunk.js.map",
+    "index.html": "/deoploytest/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/deoploytest/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.c81a1d06.chunk.js.LICENSE.txt": "/deoploytest/static/js/2.c81a1d06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e33de5.js",
+    "static/js/2.c81a1d06.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.eee96f0b.chunk.js"
+  ]
+}
